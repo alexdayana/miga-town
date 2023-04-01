@@ -1,0 +1,79 @@
+{
+    "IsUnderMaintenance": false,
+    "OnsignalId": "",
+    "Admob": {
+        "IsOn": false,
+        "AppId": "ca-app-pub-3940256099942544~3347511713",
+        "OpenApp": "ca-app-pub-3940256099942544/3419835294",
+        "Banner": "ca-app-pub-3940256099942544/6300978111",
+        "Inter": "ca-app-pub-3940256099942544/1033173712",
+        "Native": "ca-app-pub-3940256099942544/2247696110"
+    },
+    "Facebook": {
+        "IsOn": true,
+        "Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "Inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+    },
+    "Applovin": {
+        "IsOn": false,
+        "OpenApp": "",
+        "Banner": "",
+        "Inter": "",
+        "Native": ""
+    },
+    "yandex": {
+        "IsOn": false,
+        "Banner": "R-M-DEMO-320x50",
+        "Inter": "R-M-DEMO-320x480",
+        "Native": "R-M-DEMO-native-i"
+    },
+    "Unity": {
+        "IsOn": false,
+        "AppId": "4498253",
+        "Banner": "Banner_Android",
+        "Inter": "Rewarded_Android"
+    },
+    "Guides": [
+        {
+            "Title": "Title 1",
+            "Description": "Content 1"
+        },
+        {
+            "Title": "Title 2",
+            "Description": "Content 2"
+        },
+        {
+            "Title": "Title 3",
+            "Description": "Content 3"
+        },
+        {
+            "Title": "Title 4",
+            "Description": "Content 4"
+        },
+        {
+            "Title": "Title 5",
+            "Description": "Content 5"
+        },
+        {
+            "Title": "Title 6",
+            "Description": "Content 6"
+        },
+        {
+            "Title": "Title 7",
+            "Description": "Content 7"
+        },
+        {
+            "Title": "Title 8",
+            "Description": "Content 8"
+        },
+        {
+            "Title": "Title 9",
+            "Description": "Content 9"
+        },
+        {
+            "Title": "Title 10",
+            "Description": "Content 10"
+        }
+    ]
+}
