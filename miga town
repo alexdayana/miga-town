@@ -1,79 +1,62 @@
 {
-    "IsUnderMaintenance": false,
-    "OnsignalId": "",
-    "Admob": {
-        "IsOn": false,
-        "AppId": "ca-app-pub-3940256099942544~3347511713",
-        "OpenApp": "ca-app-pub-3940256099942544/3419835294",
-        "Banner": "ca-app-pub-3940256099942544/6300978111",
-        "Inter": "ca-app-pub-3940256099942544/1033173712",
-        "Native": "ca-app-pub-3940256099942544/2247696110"
-    },
-    "Facebook": {
-        "IsOn": true,
-        "Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "Inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
-    },
-    "Applovin": {
-        "IsOn": false,
-        "OpenApp": "",
-        "Banner": "",
-        "Inter": "",
-        "Native": ""
-    },
-    "yandex": {
-        "IsOn": false,
-        "Banner": "R-M-DEMO-320x50",
-        "Inter": "R-M-DEMO-320x480",
-        "Native": "R-M-DEMO-native-i"
-    },
-    "Unity": {
-        "IsOn": false,
-        "AppId": "4498253",
-        "Banner": "Banner_Android",
-        "Inter": "Rewarded_Android"
-    },
-    "Guides": [
-        {
-            "Title": "Title 1",
-            "Description": "Content 1"
-        },
-        {
-            "Title": "Title 2",
-            "Description": "Content 2"
-        },
-        {
-            "Title": "Title 3",
-            "Description": "Content 3"
-        },
-        {
-            "Title": "Title 4",
-            "Description": "Content 4"
-        },
-        {
-            "Title": "Title 5",
-            "Description": "Content 5"
-        },
-        {
-            "Title": "Title 6",
-            "Description": "Content 6"
-        },
-        {
-            "Title": "Title 7",
-            "Description": "Content 7"
-        },
-        {
-            "Title": "Title 8",
-            "Description": "Content 8"
-        },
-        {
-            "Title": "Title 9",
-            "Description": "Content 9"
-        },
-        {
-            "Title": "Title 10",
-            "Description": "Content 10"
-        }
-    ]
+	"IsUnderMaintenance": false,
+	"OnsignalId": "",
+	"Admob": {
+		"IsOn": false,
+		"AppId": "ca-app-pub-3940256099942544~3347511713",
+		"OpenApp": "ca-app-pub-3940256099942544/3419835294",
+		"Banner": "ca-app-pub-3940256099942544/6300978111",
+		"Inter": "ca-app-pub-3940256099942544/1033173712",
+		"Native": "ca-app-pub-3940256099942544/2247696110"
+	},
+	"Facebook": {
+		"IsOn": true,
+		"Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"Inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+	},
+	"Applovin": {
+		"IsOn": false,
+		"OpenApp": "",
+		"Banner": "",
+		"Inter": "",
+		"Native": ""
+	},
+	"yandex": {
+		"IsOn": false,
+		"Banner": "R-M-DEMO-320x50",
+		"Inter": "R-M-DEMO-320x480",
+		"Native": "R-M-DEMO-native-i"
+	},
+	"Unity": {
+		"IsOn": false,
+		"AppId": "4498253",
+		"Banner": "Banner_Android",
+		"Inter": "Rewarded_Android"
+	},
+	"Guides": [{
+			"Title": "Welcome to Miga Town",
+			"Description": "You can define the dress-up hairstyle and magical makeup in the game depending on your preferences Show your unique charm and write down your own story No rules and no scores in the game MIga World is a new super application that allows you to build your own world and create a better story for yourself Look for hidden treasures, change your face from tens of billions of face elements and try dress combinations as you wish This time we have prepared a number of collections including everything you may want"
+		},
+		{
+			"Title": "GUIDE 1",
+			"Description": "In this new community, you are able to visit each and every one of your neighbors and friend It's an intriguing place where you can decorate your new house at any time, and choose household supplies of the most suitable styles and sizes in the household stores downstairs. MOVE INTO YOUR NEW APARTMENTMore enjoyable scenes and customized gameplay for you to create a better story To explore new cities is the beginning of creating your own world More locations, More characters, More pets, More sets of clothes and more accessories will be launched; the game will be updated every month, or launched more locations, so that you can create your own world"
+		},
+		{
+			"Title": "GUIDE 3",
+			"Description": "Play Tips For Miga Town My Apartement on PC For fans of Tips For Miga Town My Apartement playing Tips For Miga Town My Apartement on PC with MuMu Player, a bigger screen with better graphics can dramatically increase your immersive experience. To achieve full key mapping support for precise control and get rid of the limitation of battery or mobile data you just need to meet MuMu Player "
+		},
+		{
+			"Title": "GUIDE 4",
+			"Description": "MuMu Playerthe most excellent Andriod emulator for PC performs as a virtual Android device on your PC which can provide the best gaming experience with light RAM usage and high FPS Besides you can have multiple game accounts on one single PC at one time benefitting from Multi-drive feature of MuMu Player. Its remarkably-developed emulator features enable popular mobile games to run ever smoothly even for low-end PCs. Download and play Tips For Miga Town My Apartement on PC with MuMu Player and enjoy your gaming time right now."
+		},
+		{
+			"Title": "Game Information",
+			"Description": "welcome To Mega Town My Apartment guide tricks and tutorial of miga town you can explore how life miga was Create stories and build your own miga world with Miga Town toca school city secrets cheats miga town my world is a popular game We insist on the idea expressing You’ll get all the fun of your other favorite Miga Town apps such as City Vacation Office and more all together in one place"
+		},
+		{
+			"Title": "GUIDE 5",
+			"Description": "There are additionally cheats and privileged insights things to get while play Guide For Miga Town My World, just as some decent accomplishments and prizes to open. All game guide are in top notch HD recordings with pleasant illustrations and clean UI. Ideally this guide will lead you towards your triumph and complete all the mission in Guide For Miga Town My World. "
+		}
+	]
 }
